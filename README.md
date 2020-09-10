@@ -16,3 +16,5 @@ pdfinfo, gs, pdfcrop
 ### eps image:
 (latex, dvips, gs) or (pdflatex, pdfinfo, gs, pdfcrop, pdftops)
 
+Also see:
+https://github.com/asarkar2/tex2img2
